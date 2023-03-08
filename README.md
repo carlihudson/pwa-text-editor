@@ -16,7 +16,12 @@
   This application could be used for anyone wanting to write their own code for a website or application, whether they have an internet connection or not.
 
   ## Link
-  You can access the application at https://pwa-txt-edit.herokuapp.com/. Click the "Install" button at the top to install the application onto your local machine. 
+  You can access the application at https://pwa-txt-edit.herokuapp.com/. <br>
+  ![Alt text](./client/src/images/homepage.png)
+  
+  Click the "Install" button at the top to install the application onto your local machine. 
+  ![Alt text](./client/src/images/install.png)
+  ![Alt text](./client/src/images/offline.png)
   
   ## License
       This project is covered under the ISC license. To learn more, click the badge at the top.
